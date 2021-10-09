@@ -1,0 +1,12 @@
+.card{
+    width:100px;
+    height:100px;
+    background-color: blueviolet;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px;
+}
+.card img {
+    width:100px;
+    height:100px;
+}
