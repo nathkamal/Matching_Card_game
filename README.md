@@ -22,3 +22,8 @@
 ##To Start the dev app npm run start.
 ##To Build the Prod app npm run Build.
 
+## To Run the test Cases npm run test
+
+
+##Wrote Basic test cases using testing/library.
+
