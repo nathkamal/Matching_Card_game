@@ -17,7 +17,7 @@
 ##Images need Internet connection to load
 
 
-##lighthouse performance check done 100/100
+##lighthouse performance check done ****100/100
 
 ##To Start the dev app npm run start.
 ##To Build the Prod app npm run Build.
