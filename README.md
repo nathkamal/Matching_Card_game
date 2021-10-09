@@ -1,6 +1,6 @@
-###emerson code challenge
+### emerson code challenge
 
-##Author : kamalnath Gali
+## Author : kamalnath Gali
 
 ##Tech stack:
 
@@ -19,11 +19,11 @@
 
 ##lighthouse performance check done 100/100
 
-## To Start the dev app npm run start.
-## To Build the Prod app npm run Build.
+##To Start the dev app npm run start.
+##To Build the Prod app npm run Build.
 
-## To Run the test Cases npm run test
+##To Run the test Cases npm run test
 
 
-##Wrote Basic test cases using testing/library.
+##Wrote Basic test cases using testing-library/react.
 
