@@ -18,7 +18,7 @@ export const Card:React.FC<CardProps> = (props:CardProps)=> {
     {
       !props.showCard ? (
         <div className="card" onClick= {props.handleCallBack} id={props.indexKey}>
-         <span></span>
+         <span title="click to reveal"></span>
     </div>
       ) :
 
