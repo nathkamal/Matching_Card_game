@@ -41,7 +41,7 @@ export const App = ()=> {
     prevCard: {imgUrl : '', id: -1},
     prevCardId: -1,
     timerStart: false,
-    timeRemaining: 300,
+    timeRemaining: 30,
     isGameOver: false
   }
 

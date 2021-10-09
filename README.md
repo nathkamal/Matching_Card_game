@@ -22,4 +22,4 @@
 ##To Start the dev app npm run start.
 ##To Build the Prod app npm run Build.
 
-<img src="https://avatars.dicebear.com/api/avataaars/seed-1.svg" />
+<img src="performancecheck.png" />
