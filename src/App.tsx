@@ -71,7 +71,7 @@ export const App = ()=> {
         let curId = parseInt(e.currentTarget.id);
         newOpenCards.push(curId);
         setInitialState(prevState => ({...prevState, openCards:newOpenCards, clickCount:clickCount - 1, prevCardId: initialState.prevCardId, prevCard: initialState.prevCard}))
-        if(openCards.length == 15){
+        if(openCards.length === 15){
           showSucessMessage();
         }
       }
